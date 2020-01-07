@@ -1,6 +1,6 @@
 <?php
 session_destroy();
-unset($_SESSION['id']);
-unset($_SESSION['email']);
-unset($_SESSION['verify']);
+// unset($_SESSION['id']);
+// unset($_SESSION['email']);
+// unset($_SESSION['verify']);
 ?>
